@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#010c69" Padding="24" CornerRadius="0">
+            <Label Text="Simple Intrest" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" FontFamily=""/>
+        </Frame>
+
+
+        <Label Text="Principle Amount (&#x20B9;)"  FontSize="Medium" TextColor="Black" HorizontalTextAlignment="Center"/>
+            <Entry   x:Name="PAmount" Placeholder="Amount"  Keyboard="Numeric" ReturnType="Next" FontSize="Large" ClearButtonVisibility="WhileEditing"/>
+
+
+            <Label Text="No Of Months" FontSize="Medium" TextColor="Black"  HorizontalTextAlignment="Center" />
+            <Entry Placeholder="No of months" x:Name="months" Keyboard="Numeric" ReturnType="Next" FontSize="Large" ClearButtonVisibility="WhileEditing" />
+
+            <Label Text="Rate of Intrest (%)" FontSize="Medium" TextColor="Black"  HorizontalTextAlignment="Center" />
+        <Entry Placeholder="Intrest " x:Name="ior" Keyboard="Numeric" FontSize="Large" ClearButtonVisibility="WhileEditing"   />
+        <StackLayout Background="#f2f3ff" Padding="">
+            <Label Text="Total Intrest" FontSize="Medium" TextColor="Black"  HorizontalTextAlignment="Center"/>
+            <Label Text="" x:Name="totalIntrest" FontSize="Large" TextColor="Red" HorizontalTextAlignment="Center"/>
+
+        <Label Text="Total Amount" FontSize="Medium" TextColor="Black"  HorizontalTextAlignment="Center"/>
+        <Label Text="" x:Name="totalAmount" FontSize="Large" TextColor="#490414" HorizontalTextAlignment="Center"/>
+            
+        </StackLayout>
+
+        <Button Text="Calculate"  BackgroundColor="#2980f2" TextColor="White" CornerRadius="25" WidthRequest="120" Clicked="Button_Clicked"/>
+            <Button Text="Clear"  BackgroundColor="#AD2A1A" TextColor="White" CornerRadius="25" WidthRequest="120" Clicked="Button_Clicked_1" />
+
+        
+    </StackLayout>
+  
+</ContentPage>

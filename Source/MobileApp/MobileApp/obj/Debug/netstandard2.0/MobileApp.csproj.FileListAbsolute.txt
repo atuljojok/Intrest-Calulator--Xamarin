@@ -1,0 +1,15 @@
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.AssemblyReference.cache
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+E:\C++ Sample\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
